@@ -1,4 +1,4 @@
-# FoodOn
+# FoodiesHUB
 
 ## Installation Guide
 1. Clone repository
@@ -18,6 +18,4 @@ at line 65=> String deliveryId = "oCpc4SwLVFbKO0fPdtp4R6bmDmI3"; paste here.
 Similarly, Do this in DeliveryPendingOrderFragment.java file
 
 
-## Connect with me:
-[<img align="left" alt="androrealm | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://rb.gy/r4yzzi)
-[<img align="left" alt="dshakir52 | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/dshakir52/).
+ 
